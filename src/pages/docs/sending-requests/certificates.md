@@ -66,7 +66,7 @@ To remove a certificate, use the **Remove** link next to the certificate under 
 
 ## Editing a Certificate
 
-You cannot edit a certificate after it has been created. To make changes to it, you will need to remove the certificate and create a new one.
+Youre cannot edit a certificate after it has been created. To make changes to it, you will need to remove the certificate and create a new one.
 
 ## Certificate data
 
